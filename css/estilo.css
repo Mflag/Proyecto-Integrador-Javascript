@@ -1,0 +1,18 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+.titulo {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+	
+}
+.imagenes{width: 250px;}
+#resultado{ text-align: center;
+background-color: blue;
+ }
+
